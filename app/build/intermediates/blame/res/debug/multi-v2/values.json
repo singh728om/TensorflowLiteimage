@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1000,917,872,826,782,739,1071",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1065,955,911,866,820,776,1134"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "308,378,421,465,510,553,595",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "373,416,460,505,548,590,658"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "676",
+                        "endColumns": "54",
+                        "endOffsets": "726"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "810,674,725",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "888,719,804"
+                    },
+                    "to": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "905,988,1038",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "983,1033,1117"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "805,684,748,889,920,1122",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "852,740,797,912,1114,1400"
+                    },
+                    "to": {
+                        "startLines": "21,23,24,25,26,30",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1122,1268,1328,1381,1408,1604",
+                        "endLines": "21,23,24,25,29,35",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1168,1323,1376,1403,1599,1877"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "2",
+                        "startOffsets": "292",
+                        "endLines": "11",
+                        "endColumns": "22",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "110",
+                        "endLines": "6",
+                        "endColumns": "22",
+                        "endOffsets": "303"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "728,799,863,678",
+                        "endColumns": "69,62,59,48",
+                        "endOffsets": "793,857,918,722"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "663,733,796,856",
+                        "endColumns": "69,62,59,48",
+                        "endOffsets": "728,791,851,900"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\shashibhushan singh\\tensorflow\\tensorflow\\lite\\examples\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "674",
+                        "endColumns": "95",
+                        "endOffsets": "765"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1173",
+                        "endColumns": "94",
+                        "endOffsets": "1263"
+                    }
+                }
+            ]
+        }
+    ]
+}
